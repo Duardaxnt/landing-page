@@ -1,12 +1,23 @@
 import React from 'react';
+import Nav from '../components/Nav';
+import Hero from '../components/Hero';
+import About from '../components/About';
+import Experience from '../components/Experience';
+import Skills from '../components/Skills';
+import Footer from '../components/Footer';
 
 const Home: React.FC = () => {
     return (
-        <div>
-            <h1>Welcome to My Portfolio</h1>
-            <p>This is the main page of my portfolio website.</p>
-            <p>Here you can find information about my projects, skills, and experience.</p>
-        </div>
+        <>
+            <Nav />
+            <Hero />
+            <main>
+                <About />
+                <Experience />
+                <Skills />
+            </main>
+            <Footer />
+        </>
     );
 };
 
