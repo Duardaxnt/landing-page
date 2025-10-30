@@ -14,7 +14,7 @@ export default function Hero() {
                 </div>
             </div>
             <div className="avatar">
-                <img src="/imagens/icones/fotoeu.jpg" alt="Nathali" />
+                <img src="/imagens/fotoeu.jpg" alt="Nathali" />
             </div>
         </header>
     );

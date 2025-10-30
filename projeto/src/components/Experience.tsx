@@ -6,6 +6,7 @@ export default function Experience() {
             <h2>Experiência</h2>
             <div className="timeline">
                 <div className="linha"></div>
+
                 <div className="item esquerda">
                     <div className="card">
                         <h3>Compass UOL</h3>

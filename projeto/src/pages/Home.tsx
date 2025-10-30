@@ -6,7 +6,7 @@ import Experience from '../components/Experience';
 import Skills from '../components/Skills';
 import Footer from '../components/Footer';
 
-const Home: React.FC = () => {
+export default function Home() {
     return (
         <>
             <Nav />
@@ -19,6 +19,4 @@ const Home: React.FC = () => {
             <Footer />
         </>
     );
-};
-
-export default Home;
+}

@@ -13,6 +13,14 @@ export default function Skills() {
                     <h3>CSS</h3>
                     <p>Estilização de páginas web com foco em responsividade.</p>
                 </div>
+                <div className="habilidade">
+                    <h3>JavaScript</h3>
+                    <p>Programação de funcionalidades e interatividade em páginas web.</p>
+                </div>
+                <div className="habilidade">
+                    <h3>React</h3>
+                    <p>Construção de interfaces de usuário com componentes reutilizáveis.</p>
+                </div>
             </div>
         </section>
     );
