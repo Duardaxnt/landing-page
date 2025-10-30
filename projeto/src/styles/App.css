@@ -47,6 +47,7 @@ footer {
 
 .hero .content {
   flex: 1;
+  text-align: left;
 }
 
 .hero .content h1 {
@@ -65,6 +66,7 @@ footer {
 .hero .content p {
   margin-top: 10px;
   font-size: 1.2rem;
+  color: #000;
 }
 
 .hero .btn {
