@@ -37,6 +37,7 @@ footer {
 
 .hero {
   display: flex;
+  height: 90vh;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
@@ -80,11 +81,21 @@ footer {
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-.hero .redes a {
-  margin-right: 10px;
-  font-size: 1.5rem;
-  text-decoration: none;
-  color: #000;
+.hero .redes {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    margin-left: 20px; 
+}
+
+.icone {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.3s;
+}
+
+.icone:hover {
+    transform: scale(1.1);
 }
 
 .hero .avatar img {
@@ -103,8 +114,12 @@ footer {
   z-index: 1000;
   background: #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  text-align: center;
   padding: 15px;
+  padding-right: 30%; /* adiciona padding à direita */
+  
+  display: flex;
+  justify-content: flex-end; /* mantém alinhamento à direita */
+  align-items: center;
 }
 
 .menu a {
@@ -261,4 +276,8 @@ ul {
 
 .card h3 {
   margin-top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }

@@ -5,7 +5,7 @@ export default function Nav() {
         <nav className="menu">
             <a href="#home">Home</a>
             <a href="#sobre">Sobre</a>
-            <a href="#habilidades">Habilidades</a>
+            <a href="#experiência">Experiência</a>
             <a href="#projetos">Projetos</a>
         </nav>
     );
