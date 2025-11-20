@@ -2,7 +2,7 @@ const Projetos = () => {
   const projetos = [
     {
       id: 1,
-      titulo: "Landing Page (TypeScript)",
+      titulo: "Landing Page",
       desc: "Você está visitando agora a minha Landing Page! Desenvolvida em React, criada com foco em simplicidade, visual moderno e navegação rápida.",
       img: "/imagens/landing-page.png",
       link: "https://github.com/Duardaxnt/landing-page"
@@ -10,21 +10,21 @@ const Projetos = () => {
     {
       id: 2,
       titulo: "Furniro E-commerce",
-      desc: "Frontend React TS + backend NestJS/PostgreSQL.",
+      desc: "E-commerce full stack completo, desenvolvido com frontend moderno e backend estruturado para apresentar produtos, categorias e detalhes de forma clara, oferecendo uma navegação simples e eficiente.",
       img: "/imagens/ecommerce-furniro.png",
       link: "https://github.com/Duardaxnt/projeto-furniro"
     },
     {
       id: 3,
-      titulo: "Petshop",
-      desc: "Site em HTML, CSS e JavaScript.",
+      titulo: "Paws n' Play",
+      desc: "Um petshop fictício desenvolvido em HTML, CSS e JavaScript",
       img: "/imagens/petshop.png",
       link: "https://github.com/Duardaxnt/petshop-compass"
     },
     {
       id: 4,
       titulo: "Mr. Zeus",
-      desc: "Landing page desenvolvida em React + TypeScript.",
+      desc: "Em desenvolvimento, este espaço está sendo criado para apresentar o universo do criador e conectar você às melhores lojas parceiras, facilitando o acesso aos produtos recomendados e garantindo uma experiência prática e confiável.",
       img: "/imagens/mrzeus.jpg",
       link: "https://github.com/Duardaxnt/mrzeus"
     },
