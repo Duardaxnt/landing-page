@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Experience() {
     return (
-        <section className="experiencia" id="experiencia"> {/* adiciona id aqui */}
+        <section className="experiencia" id="experiencia">
             <h2>Experiência</h2>
             <div className="timeline">
                 <div className="linha"></div>
