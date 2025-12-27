@@ -4,6 +4,7 @@ export default function Footer() {
     return (
         <footer>
             <p>Contato: eduardacadem99@gmail.com</p>
+            <p> Desenvolvedora Full-Stack</p>
             <p>© 2025 Nathali Eduarda de Andrade</p>
         </footer>
     );

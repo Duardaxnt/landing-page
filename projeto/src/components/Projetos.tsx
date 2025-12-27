@@ -28,6 +28,13 @@ const Projetos = () => {
       img: "/imagens/mrzeus.jpg",
       link: "https://github.com/Duardaxnt/mrzeus"
     },
+      {
+      id: 5,
+      titulo: "iBico",
+      desc: "Em desenvolvimento, o iBico será uma plataforma digital brasileira lançada em 2026 que atuará como um marketplace de serviços, conectando profissionais de diversas áreas a clientes que precisam de soluções rápidas e confiáveis.",
+      img: "/imagens/ibico.jpg",
+      link: "https://ibicobrasil.com.br/"
+    },
   ];
 
   return (
