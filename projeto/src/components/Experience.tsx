@@ -21,7 +21,7 @@ export default function Experience() {
                 <div className="item direita">
                     <div className="card">
                         <h3>iBico Brasil</h3>
-                        <p><strong>Desenvolvedora Full-Stack</strong></p>
+                        <p><strong>Engenheira de Software</strong></p>
                         <p>Novembro 2025 – Atual</p>
                     </div>
                 </div>

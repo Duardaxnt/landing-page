@@ -32,7 +32,7 @@ const Projetos = () => {
       id: 5,
       titulo: "iBico",
       desc: "Em desenvolvimento, o iBico será uma plataforma digital brasileira lançada em 2026 que atuará como um marketplace de serviços, conectando profissionais de diversas áreas a clientes que precisam de soluções rápidas e confiáveis.",
-      img: "/imagens/ibico.jpg",
+      img: "/imagens/ibico.png",
       link: "https://ibicobrasil.com.br/"
     },
   ];
@@ -51,7 +51,7 @@ const Projetos = () => {
               <p>{p.desc}</p>
 
               <a href={p.link} target="_blank" rel="noopener noreferrer">
-                <button className="portfolio-btn">👁️ Ver Projeto</button>
+                <button className="portfolio-btn"> Ver Projeto</button>
               </a>
             </div>
 
