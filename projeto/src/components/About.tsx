@@ -24,7 +24,7 @@ export default function About() {
             
                     <p><strong>E-mail:</strong> eduardacadem99@gmail.com</p>
                     <p><strong>Local:</strong> João Pessoa, Paraíba, Brazil</p>
-                    <a href="/Curriculo_Nathali_Andrade-1.pdf" download className="btn-curriculo">Meu Currículo</a>
+                    <a href="/Curriculo_Nathali_Eduarda.pdf" download className="btn-curriculo">Meu Currículo</a>
                 </div>
             </div>
         </section>

@@ -5,7 +5,7 @@ export default function Hero() {
         <header className="hero" id="home">
             <div className="content">
                 <h1>Olá!</h1>
-                <h1>Meu nome é <span className="destaque">Nathali</span></h1>
+                <h1>Meu nome é <span className="destaque">Eduarda</span></h1>
                 <p>Atuo como desenvolvedora full stack em formação 🚀</p>
                 <a href="#sobre" className="btn">Sobre mim ⬇</a>
 
